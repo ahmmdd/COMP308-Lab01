@@ -1,0 +1,28 @@
+{
+  "name": "lab01",
+  "version": "1.0.0",
+  "description": "Simple Express Website",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahmmdd/COMP308-Lab01.git"
+  },
+  "keywords": [
+    "NodeJS",
+    "ExpressJS",
+    "JavaScript",
+    "HTML5",
+    "CSS3",
+    "BootStrap"
+  ],
+  "author": "Mohammed Juned Ahmed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahmmdd/COMP308-Lab01/issues"
+  },
+  "homepage": "https://github.com/ahmmdd/COMP308-Lab01#readme"
+}
