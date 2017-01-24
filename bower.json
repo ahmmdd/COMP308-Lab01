@@ -1,0 +1,28 @@
+{
+  "name": "lab01",
+  "description": "Simple Express Website",
+  "main": "server.js",
+  "authors": [
+    "Mohammed Juned Ahmed"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "NodeJS",
+    "ExpressJS",
+    "JavaScript",
+    "HTML5",
+    "CSS3",
+    "BootStrap"
+  ],
+  "homepage": "https://github.com/ahmmdd/COMP308-Lab01",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
